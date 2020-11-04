@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841336239940",
+    "firebase_url": "https://music-player-online-bbc41.firebaseio.com",
+    "project_id": "music-player-online-bbc41",
+    "storage_bucket": "music-player-online-bbc41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841336239940:android:475f7d2b939693ec6a8911",
+        "android_client_info": {
+          "package_name": "com.hooba.musicplayeronline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841336239940-2ev43t97pnp8pi4s8j8jge01q9kep92u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooba.musicplayeronline",
+            "certificate_hash": "7481d98bef591a294839ce7fec1cb81dd30c4413"
+          }
+        },
+        {
+          "client_id": "841336239940-6if86tlb06b16rfsnsbuun9nmkrbabtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx302t_DPam1BWdvloPxpzvQ7XwgcneHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841336239940-6if86tlb06b16rfsnsbuun9nmkrbabtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

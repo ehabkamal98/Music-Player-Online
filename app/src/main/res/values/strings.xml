@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player Online</string>
+    <string name="upload">Upload</string>
+    <string name="exit">Exit</string>
+</resources>
